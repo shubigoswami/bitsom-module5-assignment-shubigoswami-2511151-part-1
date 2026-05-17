@@ -1,0 +1,4 @@
+Experiment,Hidden Layers,Activation,Epochs,Batch Size,Test Accuracy,Test Loss
+Baseline Model,16 → 8,ReLU,20,32,0.9825000166893005,0.08389503508806229
+More Neurons,32 → 16,ReLU,20,32,0.9825000166893005,0.07436657696962357
+Tanh + More Epochs,16 → 8,Tanh,40,32,0.9825000166893005,0.06609253585338593
