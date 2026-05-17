@@ -4,6 +4,8 @@
 The objective of this project is to build and analyze a feed-forward neural network for customer churn prediction.
 
 ## Data Set Used - Customer_Churn_nn.csv
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 
 ## Tasks Performed
 - Dataset understanding
